@@ -1,2 +1,1 @@
-# xusong-learing-record
-xusong-learing-record
+# silly.github.io
